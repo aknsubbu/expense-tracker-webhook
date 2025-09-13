@@ -186,7 +186,3 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
   - Check for missing environment variables or invalid credentials.
 
 ---
-
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
